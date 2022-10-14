@@ -1,4 +1,5 @@
 # Twitch-API
+This method currently don't work, Twitch added some protection. Will see what I can do.
 
 ## Snooze Ads
 This action will give you ability to snooze ads on your stream via Streamer.Bot.
